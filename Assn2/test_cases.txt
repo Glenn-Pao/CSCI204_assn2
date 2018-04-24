@@ -1,0 +1,51 @@
+Case 1
+X-Coordinate        : 2
+Y-Coordinate        : 3
+Sun Type            : Type A
+Num Earth Planets   : 5
+Num Earth Moons     : 10
+Particle Density    : 20
+Plasma Density      : 20
+Civ Index (Expected): 6
+
+Case 2
+X-Coordinate        : -2
+Y-Coordinate        : -5
+Sun Type            : Type B
+Num Earth Planets   : 1
+Num Earth Moons     : 2
+Particle Density    : 100
+Plasma Density      : 220
+Civ Index (Expected): -3.45
+
+
+Case 3
+X-Coordinate        : -5
+Y-Coordinate        : 4
+Sun Type            : Type O
+Num Earth Planets   : 60
+Num Earth Moons     : 100
+Particle Density    : 300
+Plasma Density      : 1220
+Civ Index (Expected): -1168
+
+
+Case 4
+X-Coordinate        : 0
+Y-Coordinate        : 10
+Sun Type            : Type K
+Num Earth Planets   : 2
+Num Earth Moons     : 40
+Particle Density    : 40
+Plasma Density      : 20
+Civ Index (Expected): 21
+
+Case 5
+X-Coordinate        : 5
+Y-Coordinate        : 2
+Sun Type            : Type G
+Num Earth Planets   : 1
+Num Earth Moons     : 3
+Particle Density    : 10
+Plasma Density      : 5
+Civ Index (Expected): 3.3
